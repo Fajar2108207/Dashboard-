@@ -1,0 +1,1 @@
+Dashboard adalah alat yang digunakan untuk menampilkan data dan informasi penting secara visual, sehingga memudahkan Anda untuk memantau, menganalisis, dan mengambil keputusan. Dashboard bisa membantu Anda untuk mengukur kinerja, mengidentifikasi tren, mengevaluasi strategi, dan meningkatkan efisiensi bisnis Anda.
